@@ -94,7 +94,7 @@ networks:
   backend:
     external: false
     
- volumes:
+volumes:
   wordpress:
     external: true
   db:
